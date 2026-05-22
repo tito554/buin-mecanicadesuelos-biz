@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Buin
+
+> Geotechnical engineering services in Buin, Chile.
+
+## Services
+- [Aislacion Sismica](https://buin.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://buin.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://buin.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://buin.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://buin.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://buin.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://buin.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://buin.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://buin.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://buin.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://buin.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://buin.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://buin.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://buin.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://buin.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://buin.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://buin.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://buin.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://buin.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://buin.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://buin.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://buin.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://buin.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://buin.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://buin.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://buin.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://buin.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://buin.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://buin.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://buin.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://buin.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://buin.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://buin.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://buin.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://buin.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://buin.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://buin.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://buin.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://buin.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://buin.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Buin, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
